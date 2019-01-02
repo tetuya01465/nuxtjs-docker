@@ -6,8 +6,8 @@ dockerを使ったNuxt.jsのテンプレートプロジェクト
 docker-compose up
 ```
 
-# Licence
+## Licence
 Do What The Fuck You Want To Public License
 
-# Authors
+## Authors
 tetuya01465
